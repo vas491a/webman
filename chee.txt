@@ -1,3 +1,5 @@
 scm tool Git
 Builed tool maven
 Autometion too jenkins
+orchistration tool kubernets
+aws cloud tool
