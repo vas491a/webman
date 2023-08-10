@@ -1,0 +1,3 @@
+scm tool Git
+Builed tool maven
+Autometion too jenkins
