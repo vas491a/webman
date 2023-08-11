@@ -3,3 +3,5 @@ Builed tool maven
 Autometion too jenkins
 orchistration tool kubernets
 aws cloud tool
+ag cd is one of the orchistration continer
+testing tool sonarqube
